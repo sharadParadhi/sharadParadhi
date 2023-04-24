@@ -14,7 +14,7 @@ I am a passionate and self-motivated aspiring full-stack developer from Akola,Ma
 - 🌱 I’m currently learning MERN Stack Dev
 - 🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
 - 👨‍💻 My portfolio  [Click here](portfoilio)
-- 📫 How to reach me: [![Linkedin Badge](https://www.linkedin.com/feed/)
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-sharad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 - 👀 My github repositories [Click here](https://github.com/sharadParadhi?tab=repositories)
 - 📄 Know about my skills [Resume](resume link here)
 
