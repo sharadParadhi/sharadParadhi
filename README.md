@@ -1,43 +1,38 @@
 
 
-<h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Sharad Paradhi <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Sharad Paradhi; I am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+<h1 align="center">Hi 👋, I'm Sharad Paradhi</h1>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+
+
+- 🌱 I’m currently learning **Full Stack Web Developer**
+
+- 👨‍💻 All of my projects are available at [https://sharadparadhi.github.io/](https://sharadparadhi.github.io/)
+
+- 💬 Ask me about **I am a passionate and self-motivated aspiring full-stack developer from Palghar,Maharashtra(India)🏛.Specialization in MERN stack with a keen interest in learning and working with new technology💡. With a creative and analytical mindset, I am skilled in problem-solving and always seek out innovative solutions to complex challenges.**
+
+- 📫 How to reach me **sharadparadhi2124@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- -  👨‍💻 My portfolio [https://sharadparadhi.github.io/](https://sharadparadhi.github.io/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/sharadparadhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sharadparadhi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sharad paradhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad paradhi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sharad paradhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharad paradhi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sharad paradhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharad paradhi" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sharad paradhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharad paradhi" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 💁‍♂️: About me
-I am a passionate and self-motivated aspiring full-stack developer from Palghar,Maharashtra(India)🏛.Specialization in MERN stack with a keen interest in learning and working with new technology💡. With a creative and analytical mindset, I am skilled in problem-solving and always seek out innovative solutions to complex challenges.
-
-
-- 🔭 I’m currently exploring and learning new things.
-- 🌱 I’m currently learning MERN Stack Dev
-- 🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
-- 👨‍💻 My portfolio  [Click here](https://sharadparadhi.github.io/)
-- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-sharad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-- 👀 My github repositories [Click here](https://github.com/sharadParadhi?tab=repositories)
-- 📄 Know about my skills [Resume](https://drive.google.com/file/d/1MBMxm4-ZMgCokZNSw_kh2YjLFS1FYCV9/view?usp=sharing)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharadparadhi&show_icons=true&locale=en&layout=compact" alt="sharadparadhi" /></p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharadparadhi&show_icons=true&locale=en" alt="sharadparadhi" /></p>
 
-<h2 align="center">Tech Stack</h2>
-<div align="center">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharadparadhi&" alt="sharadparadhi" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharadparadhi" alt="sharadparadhi" /></a> </p>
 
-<img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sharadParadhi&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadParadhi&layout=compact"/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sharadParadhi&theme=react-dark)
