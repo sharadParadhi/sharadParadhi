@@ -14,6 +14,7 @@
 - 💬 Ask me about **Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready codeusing React JS, Redux,and CSS on the fronted ,Node JS and Express on the backend to build single page applications. Passionate about coding and strongly interested in working in a product based company.**
  <br><br>
 - 📫 How to reach me **sharadparadhi2124@gmail.com**
+- 👨‍💻 My Linkedin [Sharad Paradhi](https://www.linkedin.com/in/sharad-paradhi-777a33241/)
 - 👨‍💻 My portfolio [https://sharadparadhi.github.io/](https://sharadparadhi.github.io/)
 - 👨‍💻 All of my projects are available at [https://github.com/sharadParadhi?tab=repositories](https://github.com/sharadParadhi?tab=repositories)
 - 📄 My Resume [https://drive.google.com/file/d/1MBMxm4-ZMgCokZNSw_kh2YjLFS1FYCV9/view?usp=sharing](https://drive.google.com/file/d/1MBMxm4-ZMgCokZNSw_kh2YjLFS1FYCV9/view?usp=sharing)
