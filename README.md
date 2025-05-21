@@ -16,7 +16,7 @@
 - 📫 How to reach me **sharadparadhi2124@gmail.com**
 - 👨‍💻 My portfolio [https://sharadparadhi.github.io/](https://sharadparadhi.github.io/)
 - 👨‍💻 All of my projects are available at [https://github.com/sharadParadhi?tab=repositories](https://github.com/sharadParadhi?tab=repositories)
-- 📄 My Resume [https://drive.google.com/file/d/15z-j1D-TVnR1R7fPWhKHCC_9caWJIHPM/view?usp=sharing](https://drive.google.com/file/d/15z-j1D-TVnR1R7fPWhKHCC_9caWJIHPM/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1x5liMNzPhQ_4grqSZmU2_XXvZM17DOC4/view?usp=sharing](https://drive.google.com/file/d/1x5liMNzPhQ_4grqSZmU2_XXvZM17DOC4/view?usp=sharing)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharad-paradhi-777a33241/)
 
